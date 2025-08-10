@@ -27,6 +27,8 @@ A minimal and elegant photography-themed landing page built using only **HTML** 
   - Positioning
 
 ---
+## screenshot
+![screenshot ](image-1.png)
 
 ## 💡 What I Learned
 
@@ -40,6 +42,7 @@ A minimal and elegant photography-themed landing page built using only **HTML** 
 
 |-photographypage/
 |-.gitignore
+|- image-1.png
 |-image.png
 |-index.html
 |-README.md
